@@ -5,5 +5,5 @@
 
 ## Usage
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`# anime-review
+1. run `node server.js` || `npm run dev`
+2. Navigate to `localhost:8080`# photo-review
